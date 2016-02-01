@@ -1,2 +1,2 @@
-# deep-data-development
+# Deep Data Development
 This is mike's Big Data class repository
