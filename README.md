@@ -1,2 +1,2 @@
-# bigdata
-For the big data and analytics class at UPrep
+# Deep Data Development ☃☃☃☃☃☃☃☃
+This is mike's Big Data class repository
